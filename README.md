@@ -44,6 +44,7 @@ cd hillclimb-rl
 ```bash
 pip install -r requirements.txt
 ```
+### download dataset at : https://www.kaggle.com/datasets/podupugantiakshay/dataset-for-hillclimding-rl
 
 ### ✅ 3. Download YOLOv8 weights (or use your trained model)
 Place your trained YOLOv8 model at:
